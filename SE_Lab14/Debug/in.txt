@@ -1,0 +1,17 @@
+uint function mult(uint a, uint b)
+{
+declare uint res;
+res = a * b;
+return res;
+};
+main
+{
+declare uint g;
+g = b2101;
+declare uint k;
+k = b820;
+declare uint res;
+res = mult(g, k, k, k, k, k, k, g, g, g, g, g, g, g);
+print res;
+return 0;
+};

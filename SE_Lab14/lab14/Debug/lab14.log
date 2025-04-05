@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\KPO\alt\SE_Lab14\lab14\PolishNotation.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+C:\KPO\alt\SE_Lab14\lab14\PolishNotation.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+C:\KPO\alt\SE_Lab14\lab14\main.cpp(19,9): warning C4102: Log: неиспользованная метка
+  lab14.vcxproj -> C:\KPO\alt\SE_Lab14\Debug\PVR-2024.exe

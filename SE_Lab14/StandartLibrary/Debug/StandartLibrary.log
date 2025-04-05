@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  StandartLibrary.cpp
+C:\KPO\alt\SE_Lab14\StandartLibrary\StandartLibrary.cpp(16,1): warning C4715: strcp: значение возвращается не при всех путях выполнения
+  StandartLibrary.vcxproj -> C:\KPO\alt\SE_Lab14\Debug\StandartLibrary.lib

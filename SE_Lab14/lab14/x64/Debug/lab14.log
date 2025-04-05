@@ -1,0 +1,21 @@
+﻿  Error.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\Error.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  FST.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\FST.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  In.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\In.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  IT.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\IT.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  LexAnalysis.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\LexAnalysis.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  Log.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\Log.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  LT.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\LT.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  main.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\main.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  Out.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\Out.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  Parm.cpp
+C:\Users\maks_\Desktop\SE_Lab14\lab14\Parm.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\lab14.pch: No such file or directory,
+  Создание кода...
